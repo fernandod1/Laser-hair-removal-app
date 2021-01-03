@@ -1,4 +1,4 @@
-# Laser hair removal app to manage client's threataments in beauty center
+# Laser hair removal control panel to manage client's threataments in beauty center
 
 Full PHP script control panel to manage client's database and sessions of laser hair removal threataments in a beauty center.
 
