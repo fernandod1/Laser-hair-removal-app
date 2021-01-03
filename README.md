@@ -27,37 +27,37 @@ PHP and MySQL database.
 ## Screenshots
 Main page of control panel:
 
-<img src=screenshots/01.jpg width=500>
+<img src=screenshots/01.jpg width=600>
 
 
 Listing clients:
 
-<img src=screenshots/02.jpg width=500>
+<img src=screenshots/02.jpg width=600>
 
 
 Add new client to database:
 
-<img src=screenshots/03.jpg width=500>
+<img src=screenshots/03.jpg width=600>
 
 
 Client threataments and sessions consumption:
 
-<img src=screenshots/04.jpg width=500>
+<img src=screenshots/04.jpg width=600>
 
 
 Add new threatament:
 
-<img src=screenshots/05.jpg width=500>
+<img src=screenshots/05.jpg width=600>
 
 
 Sessions consumption page:
 
-<img src=screenshots/06.jpg width=500>
+<img src=screenshots/06.jpg width=600>
 
 
 Client's disclaimer threatament documents upload:
 
-<img src=screenshots/07.jpg width=500>
+<img src=screenshots/07.jpg width=600>
 
 ## Collaborations
 
