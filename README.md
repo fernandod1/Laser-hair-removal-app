@@ -19,31 +19,44 @@ PHP and MySQL database.
 
 ## Instalation
 
-1.) Import in MySQL tables struct from database_struct.sql.
-2.) Configure MySQL connection parameters in connectDB.php.
-3.) Set in upload.php file full path to /documents/ folder where will be stored client's disclaimer threatament documents.
-4.) Upload all files to your hosting. Done.
+1. Import in MySQL tables struct from database_struct.sql.
+2. Configure MySQL connection parameters in connectDB.php.
+3. Set in upload.php file full path to /documents/ folder where will be stored client's disclaimer threatament documents.
+4. Upload all files to your hosting. Done.
 
 ## Screenshots
 Main page of control panel:
+
 <img src=screenshots/01.jpg width=500>
 
+
 Listing clients:
+
 <img src=screenshots/02.jpg width=500>
 
+
 Add new client to database:
+
 <img src=screenshots/03.jpg width=500>
 
+
 Client threataments and sessions consumption:
+
 <img src=screenshots/04.jpg width=500>
 
+
 Add new threatament:
+
 <img src=screenshots/05.jpg width=500>
 
+
 Sessions consumption page:
+
 <img src=screenshots/06.jpg width=500>
 
+
 Client's disclaimer threatament documents upload:
+
 <img src=screenshots/07.jpg width=500>
 
 ## Collaborations
