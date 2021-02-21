@@ -55,7 +55,7 @@ Sessions consumption page:
 <img src=screenshots/06.jpg width=600>
 
 
-Client's disclaimer threatament documents upload:
+Client's disclaimer treatment documents upload:
 
 <img src=screenshots/07.jpg width=600>
 
